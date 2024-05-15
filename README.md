@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hi, I'm Emmanuel Aguero 👋
 
-<!--
-**EmmanuelAR/EmmanuelAR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌍 **Location:** Costa Rica  
+💻 **Specialty:**   Web 3 -> Developer 
+                    Web 2 -> Software Engineer
+🎓 **Alma Mater:** Universidad Nacional de Costa Rica (UNA) 
+🏊 **Hobbies:** Crossfit, swimming, and running  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a passionate Web 3 developer from Costa Rica, with a degree from UNA. I love exploring innovative tech solutions and contributing to cutting-edge projects. When I'm not coding, you can find me staying active with crossfit, swimming, and running. Always eager to collaborate and learn from the community.
+
+---
+
+**Connect with me:**
+
+[LinkedIn](www.linkedin.com/in/emmanuel-a-504a43117) | [Twitter](https://twitter.com/EmmanuelDevCr) | [Email](emmanuelaguerorojas@gmail.com) | [Telegram](https://t.me/EmmanuelDevCr)

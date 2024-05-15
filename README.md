@@ -1,8 +1,7 @@
 ### Hi, I'm Emmanuel Aguero 👋
 
 🌍 **Location:** Costa Rica  
-💻 **Specialty:**   Web 3 -> Developer 
-                    Web 2 -> Software Engineer
+💻 **Specialty:**   Web 3 -> Developer || Web 2 -> Software Engineer
 🎓 **Alma Mater:** Universidad Nacional de Costa Rica (UNA) 
 🏊 **Hobbies:** Crossfit, swimming, and running  
 
